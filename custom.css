@@ -1,0 +1,6 @@
+.img_ani:after {
+padding-top:0px;
+    content: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidL48ddXf_kpbEMbnOAetC3-eIJhV-0FtTC4iWXlDZThrl7X0Kqst7nUkVdl7npx6l5jTokLjMOQQxUaWYM1EjMHbq2plKrSMWaquaFNElA-yinfIL7KerHmFz7Mz4ERmMbqnteA58glCWnuVyAS29Rc-fybtkJmcb1StlfLbRRNj6X1X9q251t90aqv0/s16000/%EB%8B%A8%ED%92%8D%EB%A1%9C%EA%B3%A0.png");
+filter: drop-shadow(0px 0px 1px #000);
+    
+}
